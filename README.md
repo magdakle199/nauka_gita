@@ -3,4 +3,4 @@ Git jest super!
 xxxxx
 zartowalam :)
 maybe not so bad
-![https://octodex.github.com/images/grinchtocat.gif]
+![Image of Yaktocat](https://octodex.github.com/images/grinchtocat.gif)
